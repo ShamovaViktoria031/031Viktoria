@@ -1,6 +1,4 @@
 # Шамова Виктория
 Добавляйте ваши изменения-дополнения и получайте одобрение
 
-- [ ] #739
-- [x] h
-- [ ] Add  :tada:
+# Шпора - https://github.com/ShamovaViktoria031/commit/blob/main/python%20шпора.ipynb
