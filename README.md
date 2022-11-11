@@ -14,3 +14,5 @@
 $$a^2 + b^2 = c^2$$
 
 $$\lim_{x \to \infty} \left(1 + \frac{1}{n} \right)^n = e$$
+
+![download](https://user-images.githubusercontent.com/115200474/201253922-07453c7e-ea0d-472f-86d5-5f9186e2f2a5.png)
