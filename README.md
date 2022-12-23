@@ -17,4 +17,5 @@ $$\lim_{x \to \infty} \left(1 + \frac{1}{n} \right)^n = e$$
 
 ![download](https://user-images.githubusercontent.com/115200474/201253922-07453c7e-ea0d-472f-86d5-5f9186e2f2a5.png)
 
-![Uploading mermaid-diagram-2022-12-23-092825.png…]()
+
+![mermaid-diagram-2022-12-23-092825](https://user-images.githubusercontent.com/115200474/209258981-fd8dc260-309f-437d-a190-d4cba71c177b.png)
